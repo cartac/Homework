@@ -1,7 +1,7 @@
 # TransUnion
 ## The Future of Credit Scoring 
 
-![Transunion Logo](./01-FinTech/support-files/TransUnion-Logo.png)
+![Transunion Logo](../01-FinTech/support-files/TransUnion-Logo.png)
 
 ### Table of Contents
 * [Overview and Origin](Overview-and-Origin)
