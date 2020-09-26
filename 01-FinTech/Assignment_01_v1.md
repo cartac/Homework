@@ -1,6 +1,5 @@
 ![Transunion Logo](../01-FinTech/support-files/TransUnion-Logo.png)
-
-## The Future of Credit Scoring 
+## TransUnion: More Data than Google  
 
 
 
