@@ -41,10 +41,10 @@ The market size in 2020 is estimated at $11.7 billion, 11.4% less than in 2019 d
  This company, together with other credit bureaus and credit agencies is in the financial services domain, and as the classification indicates it, offer services to other financial instutions, which will use that information to offer mainly lending products.  
 
  The major trends in the industry have been: 
-    * **Automation:** it allowed companies to collect data more efficiently from banks and other instituions who report consumers information back to the agencies
-    * **Big Data Techqniues:** not only it enables credit companies to process traditional data more efficiently and faster but it also enabled the use of alternative data such as telephone and mobile phone providers, rent information, utilities among others. 
-    * **Artificial Inteligence / Machine Learning:** it enabled credit bureaus to enhance their traditional models, which tend to show a point in time, to identify trends that can be used to make more accurate predictions as well as the implemetation of other predictive models that could potentially have more predictive power than the traditional linear regression models. 
-    * **Technology:** in the traditional sense of the word, more computational power, has been a key enabler. 
+ * **Automation:** it allowed companies to collect data more efficiently from banks and other instituions who report consumers information back to the agencies
+ * **Big Data Techqniues:** not only it enables credit companies to process traditional data more efficiently and faster but it also enabled the use of alternative data such as telephone and mobile phone providers, rent information, utilities among others. 
+ * **Artificial Inteligence / Machine Learning:** it enabled credit bureaus to enhance their traditional models, which tend to show a point in time, to identify trends that can be used to make more accurate predictions as well as the implemetation of other predictive models that could potentially have more predictive power than the traditional linear regression models. 
+ * **Technology:** in the traditional sense of the word, more computational power, has been a key enabler. 
  
 
  TransUnion's direct competitors are FICO and Experian; however, since 2008, many alternative lenders (e.g. LendingClub, Affirm, Prosper, OnDeck) had started developing and using their own credit models incorporating alternative data. It is important to highlight that most of the lenders' credit models incorporate a traditional credit score as an input, evidencing the widespread use and trust in the traditional credit bureaus.  
