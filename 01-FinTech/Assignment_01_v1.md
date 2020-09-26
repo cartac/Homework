@@ -2,7 +2,7 @@
 ## The Future of Credit Scoring 
 
 ![Transunion Logo](C:/Users/carli/Documents/Coding_Programs/FINTECH_Columbia/Homework/01-FinTech/support-files/TransUnion-Logo.png)
-Format: ![Alt Text]
+
 ### Table of Contents
 * [Overview and Origin](Overview-and-Origin)
 * [Business Activities](Business-Activities)
