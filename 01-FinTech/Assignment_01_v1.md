@@ -1,18 +1,28 @@
 # TransUnion
 ## The Future of Credit Scoring 
 
+### Table of Contents
+* [Overview and Origin](Overview-and-Origin)
+* [Business Activities](Business-Activities)
+* [Landscape](Landscape)
+* [Results](Results)
+* [Recommendations](Recommendations)
+
+
 ## Overview and Origin
 
-* Name of company
+* TransUnion (NYSE: TRU) is a global consumer credit reporting agency that collects information from consumers, aggregates the data and produces insights utimately sold to, mainly, financial institutions. 
 
-* When was the company incorporated?
+* The company was founded in 1968 by the Union Tank Car Company, a railcar leasing operation, and in 1969 it recognized the opportunity in the credit reporting space and acquired the Credit Bureau of Cook County. Since then, the company grew both organically and inorganically to become one of the largest credit bureaus in the world. In addition to several transformational acquisitions throught the years, in 2015 it did its initial public offering (IPO) in the NYSE. Prior to it's IPO, TransUnion was owned by Goldman Sachs Capital Partners and Advent International.
 
-* Who are the founders of the company?
+
+* The IPO was for c. $663mm valuing the company at ~$4 billion. For reference, at the time of the IPO, the prior year's revenue were $1.3 billion. 
 
 * How did the idea for the company (or project) come about?
 
 * How is the company funded? How much funding have they received?
 
+* TransUnion is headquartered in Chicago, IL and has over 7,500 across 30+ countries. Other interesting metrics are the company's reach to 1 billion consumers, 65,000 businesses and more than 30 'petabytes' of data. 
 
 ## Business Activities:
 
@@ -51,3 +61,8 @@ What solution does this company offer that their competitors do not or cannot of
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
+
+
+
+### Sources: 
+* https://www.nytimes.com/2015/06/26/business/dealbook/transunion-valued-at-4-billion-in-initial-public-offering.html
