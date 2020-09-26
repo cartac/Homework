@@ -13,22 +13,25 @@
 
 ## Overview and Origin
 
-* TransUnion (NYSE: TRU) is a global consumer credit reporting agency that collects information from consumers, aggregates the data and produces insights utimately sold to, mainly, financial institutions. 
+* TransUnion (NYSE: TRU) is a global information company better known for its consumer credit reporting practice. TransUnion collects data from consumer, aggregates and produces insights for each consumer that is utimately sold to, financial institutions and other companies. These institutions rely on TransUnion's insights to offer the best products available to each consumer in the most cost efficient way.  
 
 * The company was founded in 1968 by the Union Tank Car Company, a railcar leasing operation, and in 1969 it recognized the opportunity in the credit reporting space and acquired the Credit Bureau of Cook County. Since then, the company grew both organically and inorganically to become one of the largest credit bureaus in the world. In addition to several transformational acquisitions throught the years, in 2015 it did its initial public offering (IPO) in the NYSE. Prior to it's IPO, TransUnion was owned by Goldman Sachs Capital Partners and Advent International.
 
+* The IPO was for c. $663mm valuing the company at ~$4 billion. For reference, at the time of the IPO, the prior year's revenue were $1.3 billion. The current market capitalization of the company is $15.4 billion. Being publicly traded and an established company, TranSunion benefits from access to the capital marktes to raise debt and equity in addition to cash flow from operationsto pursue inorganic gorwth and to optimize the capital structure with the right combination of debt and equity. As of June 30, 2020, the company had $3.6 billion in financial debt. 
 
-* The IPO was for c. $663mm valuing the company at ~$4 billion. For reference, at the time of the IPO, the prior year's revenue were $1.3 billion. 
-
-* How did the idea for the company (or project) come about?
-
-* How is the company funded? How much funding have they received?
+* At acquisition, in 1969, the purchase of a credit bureau followed more likely the conglomerate trend started in the late 1950s. Due to the incorporation of certain regulatory constraints, cash flow positive and well established corporations looking to grow inforganically had to do so outsude of their industry of expertise. The push into technology and analytics goes back to the 1990s when they "strengthened our analytics and decisioning capabilities by acquiring one of the most powerful technologies for high-volume, individual-level decisions" (Company website). Since then the comapny has grown its product swift offered to companies leveraging all the data collected over the years and analytical tools available to collect and process such data.  
 
 * TransUnion is headquartered in Chicago, IL and has over 7,500 across 30+ countries. Other interesting metrics are the company's reach to 1 billion consumers, 65,000 businesses and more than 30 'petabytes' of data. 
 
 ## Business Activities:
 
-* What specific financial problem is the company or project trying to solve?
+* The main financial problem the company is trying to solve is the lack of information or even worse, assymetric information. While this is a reality in every aspect of life, it has a huge impact when the profitability of the product offered by a company depends on the consumers' behaviours and in particular their willingness and capacity to pay back in the future. Some examples of companies benefiting from the produtc are consumer finance companies and banks that generally use consumers information to determine whether they will issue a loan and if they do so, at what price on for how long. 
+
+* Some of the benefits 
+
+
+ This means that for  where the consumer knows more about his or her own behaviour than the company selling products. 
+TransUnion offers a wide array of products categorized as customer credit reporting, fraud detection, customer analytics and consulting among many others. 
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
@@ -68,3 +71,4 @@ What solution does this company offer that their competitors do not or cannot of
 
 ### Sources: 
 * https://www.nytimes.com/2015/06/26/business/dealbook/transunion-valued-at-4-billion-in-initial-public-offering.html
+* https://www.investopedia.com/terms/c/conglomerate-boom.asp#:~:text=The%20trigger%20for%20the%20conglomerate,acquired%20companies%20in%20unrelated%20fields.
