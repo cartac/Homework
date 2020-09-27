@@ -52,7 +52,13 @@ The market size in 2020 is estimated at $11.7 billion, 11.4% less than in 2019 d
 
 ## Results
 
-* What has been the business impact of this company so far?
+* TransUnion has a steady revenue stream and benefits for the widespread use of credit reporting as it is in the center of the banking industry. Historically, but more so since the Great Financial Crisis of 2008, financial institutions and investors in fnancial institutions are laser-focused in risks. Since the GFC and only until march of 2020, the US economy has thrived and lending has been growing and hence Transunion's revenues. 
+
+TransUnion benefits by their presence in the capital markets and strong cash flow generation to gorw both organically and inorganically acquiring startups with frontier technology as well as established credit bureaurs around the world. In this way, i.e. by being bigger, more global and acquiring de novo technologies, the company manages to stay current. 
+
+![revenues chart](../01-FinTech/support-files/Key metrics.pdf)
+
+
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
