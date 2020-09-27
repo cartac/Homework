@@ -58,7 +58,7 @@ TransUnion benefits by their presence in the capital markets and strong cash flo
 
 ![revenues chart](../01-FinTech/support-files/Key-metrics.png)
 
-
+![Transunion Logo](../01-FinTech/support-files/TransUnion-Logo.png)
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
