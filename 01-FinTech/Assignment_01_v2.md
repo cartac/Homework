@@ -2,7 +2,7 @@
 ## TransUnion: More Data than Google  
 
 
-### Table of Contents
+## Table of Contents
 * [Overview and Origin](Overview-and-Origin)
 * [Business Activities](Business-Activities)
 * [Landscape](Landscape)
