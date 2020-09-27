@@ -56,9 +56,8 @@ The market size in 2020 is estimated at $11.7 billion, 11.4% less than in 2019 d
 
 TransUnion benefits by their presence in the capital markets and strong cash flow generation to gorw both organically and inorganically acquiring startups with frontier technology as well as established credit bureaurs around the world. In this way, i.e. by being bigger, more global and acquiring de novo technologies, the company manages to stay current. 
 
-![revenues chart](../01-FinTech/support-files/Key-metrics.png)
+![revenues-chart](../01-FinTech/support-files/Keymetrics.png)
 
-![Transunion Logo](../01-FinTech/support-files/TransUnion-Logo.png)
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
